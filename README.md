@@ -1,4 +1,9 @@
 # Coding Challenges
+
+**Stack:** Java
+
+**Skills:** Algorithms, data structures
+
 This project contains solution to a few coding challenges
 
 #### Finding smallest element in the sorted list using binary search
